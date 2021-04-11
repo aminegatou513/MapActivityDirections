@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">City\'s_Morocco</string>
+    <string name="title_activity_maps">Map</string>
+    <string name="string_morocco_s_cities">Morocco\'s Cities</string>
+    <string name="track_distance">Track Distance</string>
+    <string name="title_activity_distance__track">Map</string>
+</resources>
