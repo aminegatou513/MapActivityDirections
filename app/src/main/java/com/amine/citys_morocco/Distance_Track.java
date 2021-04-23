@@ -114,7 +114,7 @@ public class Distance_Track extends FragmentActivity implements OnMapReadyCallba
         //Output format
         String output = "json";
         //Create url to request
-        String url = "https://maps.googleapis.com/maps/api/directions/" + output + "?" + param+"&key=AIzaSyAQq6VTyEPU7GWI3y6vShB5aaZnHJBY4eo";
+        String url = "https://maps.googleapis.com/maps/api/directions/" + output + "?" + param+"&key=API_KEY_HERE";
         System.out.println(url);
         return url;
     }
